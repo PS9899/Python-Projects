@@ -2,9 +2,9 @@
 This project analyzes restaurant data from Zomato to extract meaningful insights on customer preferences and ratings. The goal is to explore how factors like ratings, votes and type of restaurant influence user engagement.
 
 ## 📂 Project Structure
----- Zomato-data.csv # Sample data used for the analysis
----- Zomato_data_analysis.ipynb # Python notebook for data processing and visualization
----- READNE.md # Project documentation
+- Zomato-data.csv # Sample data used for the analysis
+- Zomato_data_analysis.ipynb # Python notebook for data processing and visualization
+- README.md # Project documentation
 
 ## 📊 Key Objectives
 - Do more restaurants provide online delivery compared to offline services?
