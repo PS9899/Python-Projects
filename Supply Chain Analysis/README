@@ -1,0 +1,16 @@
+# Supply Chain Analysis using Python 🚚📊
+
+A guide to exploring and visualizing supply chain data using Python and Plotly.
+
+---
+
+## 📁 Dataset
+
+- Example dataset: `supply_chain_data.csv`  
+- Features include:
+  - Product type, SKU, Price, Availability  
+  - Number of products sold, Revenue generated  
+  - Customer demographics, Stock levels, Lead times  
+  - Order quantities, Shipping times, Shipping carriers/costs  
+  - Production volumes, Manufacturing lead time & costs  
+  - Inspection results, Defect rates, Transportation modes, Routes, Costs
